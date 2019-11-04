@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "468523134034",
+    "firebase_url": "https://carta-v6.firebaseio.com",
+    "project_id": "carta-v6",
+    "storage_bucket": "carta-v6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468523134034:android:947ed0b1badea250b4038b",
+        "android_client_info": {
+          "package_name": "com.abhishekjnvk.cartav6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468523134034-ip0s5lrrvbsgm2ei4v7vnknde1d441t5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhishekjnvk.cartav6",
+            "certificate_hash": "5883c927f3d35153ecdc7a055862cad4590e6779"
+          }
+        },
+        {
+          "client_id": "468523134034-an2opcq528j830bvlm64r0tn0i2fgjbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwiJN1cgZb8f_QcBFczSC0So0x3JFRY80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468523134034-an2opcq528j830bvlm64r0tn0i2fgjbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
